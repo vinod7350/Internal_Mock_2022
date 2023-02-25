@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite123]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test45(failed)">
+    <classes>
+      <class name="TestNGYouTube.MazaAnandTestNG1">
+        <methods>
+          <include name="afterclass"/>
+          <include name="beforeclass"/>
+          <include name="aftermethod"/>
+          <include name="beforeMethod"/>
+          <include name="test"/>
+        </methods>
+      </class> <!-- TestNGYouTube.MazaAnandTestNG1 -->
+    </classes>
+  </test> <!-- Test45(failed) -->
+</suite> <!-- Failed suite [Suite123] -->
